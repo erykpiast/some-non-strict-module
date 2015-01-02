@@ -1,0 +1,16 @@
+{
+  "name": "some-non-strict-module",
+  "version": "0.0.1",
+  "description": "es6ify test",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/erykpiast/some-non-strict-module.git"
+  },
+  "author": "Eryk Napierała <eryk.piast@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erykpiast/some-non-strict-module/issues"
+  },
+  "homepage": "https://github.com/erykpiast/some-non-strict-module"
+}
