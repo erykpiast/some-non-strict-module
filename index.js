@@ -1,1 +1,1 @@
-someVariable = 'someValue';
+module.exports = 'someValue';
