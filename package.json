@@ -1,7 +1,7 @@
 {
   "name": "some-non-strict-module",
   "version": "0.0.1",
-  "description": "es6ify test",
+  "description": "NPM module with code not compliant with strict mode. For tests.",
   "main": "index.js",
   "repository": {
     "type": "git",
