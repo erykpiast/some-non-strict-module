@@ -1,1 +1,1 @@
-module.exports = undeclaredVariable = 'someValue';
+delete Object.prototype;
