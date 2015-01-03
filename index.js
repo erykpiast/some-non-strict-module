@@ -1,1 +1,1 @@
-module.exports = 'someValue';
+module.exports = undeclaredVariable = 'someValue';
